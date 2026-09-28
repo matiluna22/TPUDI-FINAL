@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 Introducción a notas.txt. Colocar su contenido despues del :
 Topline seven de mandarina
+=======
+>>>>>>> parent of 5796a56 (C4. Modificacion de notas.txt Lauti)
